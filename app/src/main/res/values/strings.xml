@@ -23,6 +23,8 @@
     <string name="point">.</string>
     <string name="equals">=</string>
 
-    <string name="backspace"> </string>
+    <string name="backspace"></string>
+
+    <string name="display">Enter a value</string>
 
 </resources>
